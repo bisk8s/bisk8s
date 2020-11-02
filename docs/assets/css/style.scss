@@ -1,18 +1,21 @@
-@import"{{ site.theme }}";
+---
+---
 
-$chelsea-cucumber: #d83f3f;
-$conifer: #FF5757;
+@import 'jekyll-theme-hacker';
 
-// $apple-blossom: #ac4142;
-// $alto: #d0d0d0;
-// $bouquet: #aa759f;
-// $cod-grey: #151515;
-// $dove-grey: #666;
-// $gallery: #eaeaea;
-// $grey: #888;
-// $gulf-stream: #75b5aa;
-// $hippie-blue: #6a9fb5;
-// $potters-clay: #8f5536;
-// $rajah: #f4bf75;
-// $raw-sienna: #d28445;
-// $silver-chalice: #aaa;
+header h1,
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+hr,
+pre {
+    color: #FF5757;
+}
+
+header,
+hr,
+th {
+    border-bottom: 1px dashed #FF5757;
+}
