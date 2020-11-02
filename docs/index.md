@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Gui Lucena 
 
-You can use the [editor on GitHub](https://github.com/bisk8s/bisk8s/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[![Twitter Badge](https://img.shields.io/badge/-@lucenaBisk8s-ED5556?style=flat-square&labelColor=ED5556&logo=twitter&logoColor=white&link=https://twitter.com/lucenaBisk8s)](https://twitter.com/lucenaBisk8s) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gui%20Lucena-ED5556?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lucena-03b932127/)](https://www.linkedin.com/in/guilherme-lucena-03b932127/) 
+[![Gmail Badge](https://img.shields.io/badge/-bisk8scode@gmail.com-ED5556?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bisk8scode@gmail.com)](mailto:bisk8scode@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Enthusiast of the best web & mobile development technologies.
+ 
+Working since 2004 with web and mobile development, main focusing on interactivity and performance. 
 
-### Markdown
+Passionate about games and education uniting people in entertainment. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Looking to work with people that are passionate about taking gamification to a new level.
 
-```markdown
-Syntax highlighted code block
+“Nothing in this world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent. The slogan Press On! has solved and always will solve the problems of the human race.”
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bisk8s/bisk8s/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+― Calvin Coolidge
