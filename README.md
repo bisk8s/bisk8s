@@ -1,16 +1,19 @@
-### Hi there 👋
+# Gui Lucena 
 
-<!--
-**bisk8s/bisk8s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Full Stack Dev @Nonio. -->
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@lucenaBisk8s-ED5556?style=flat-square&labelColor=ED5556&logo=twitter&logoColor=white&link=https://twitter.com/lucenaBisk8s)](https://twitter.com/lucenaBisk8s) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gui%20Lucena-ED5556?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lucena-03b932127/)](https://www.linkedin.com/in/guilherme-lucena-03b932127/) 
+[![Gmail Badge](https://img.shields.io/badge/-bisk8scode@gmail.com-ED5556?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bisk8scode@gmail.com)](mailto:bisk8scode@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working since 2004 with web and mobile development, main focusing on interactivity and performance. 
+
+Enthusiast of the best web & mobile development technologies.
+
+Passionate about games, technology, and education uniting people in entertainment. 
+
+My dream job would be to work with people that are passionate about taking gamification to a new level.
+
+“Nothing in this world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent. The slogan Press On! has solved and always will solve the problems of the human race.”
+
+― Calvin Coolidge
